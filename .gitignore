@@ -1,0 +1,3 @@
+venv
+.env
+fireflies/db.sqlite3
